@@ -5,32 +5,31 @@ Security
 --------
 
 TREZOR provides unparalleled security for your bitcoins. TREZOR is a single
-purpose bitcoin wallet. It has been designed from the ground up for the
-most demanding bitcoin security needs. It is the only solution on the
-market today that allows one to reasonably hold and spend balances on the
-scale of thousands of bitcoins.
+purpose bitcoin wallet. It has been designed from the ground up for the most
+demanding bitcoin security needs. It is the only solution on the market today
+that allows one to reasonably hold and spend balances on the scale of thousands
+of bitcoins.
 
 Ease of use
 -----------
 
 Despite its advanced encryption and high level security, TREZOR provides a
-simple fluid interface for managing your bitcoins. Along with the
-myTREZOR.com web service you can be up and running with your TREZOR in
-minutes.
+simple fluid interface for managing your bitcoins. Along with the myTREZOR.com
+web service you can be up and running with your TREZOR in minutes.
 
 Freedom
 -------
 
-Have you ever found yourself in a foreign country trying to pay your bills
-at an internet cafe?  Did you not feel a little bit worried about using your
-bank account from an untrusted location? TREZOR gives you the freedom to
-travel and spend, without worrying about where you are. You can safely use
-your TREZOR anywhere.
+Have you ever found yourself in a foreign country trying to pay your bills at
+an internet cafe? Did you not feel a little bit worried about using your bank
+account from an untrusted location? TREZOR gives you the freedom to travel and
+spend, without worrying about where you are. You can safely use your TREZOR
+anywhere.
 
 Control
 -------
 
 TREZOR puts a bank in your pocket. There are no fees and its never closed.
 While we enjoy relative assurance that when we leave money in a traditional
-bank it will stay there, we are not in control of our money. The open
-source TREZOR puts money in your hands.
+bank it will stay there, we are not in control of our money. The open source
+TREZOR puts money in your hands.

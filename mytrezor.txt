@@ -4,19 +4,19 @@ myTREZOR
 Respects your privacy
 ---------------------
 
-There is no need to create an account.  All you need to use the myTREZOR web
+There is no need to create an account. All you need to use the myTREZOR web
 wallet is your TREZOR device. You will never be asked to enter personal
 information such as your name or email address.
 
 Works everywhere
 ----------------
 
-The simple to install TREZOR drivers work with Windows, OS X and Linux.
-You'll be up and running within minutes.
+The simple to install TREZOR drivers work with Windows, OS X and Linux. You'll
+be up and running within minutes.
 
 Using myTREZOR.com is easy
 --------------------------
 
 Just plug your TREZOR in, go to myTREZOR.com, and follow the instructions on
-the screen.  There is no need to understand the complexities of the bitcoin
+the screen. There is no need to understand the complexities of the bitcoin
 protocol, just open your web browser and go!
