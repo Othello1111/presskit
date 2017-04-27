@@ -21,6 +21,6 @@ to faster adoption of Bitcoin and easy and secure tools for bitcoin owners. The
 team of SatoshiLabs is ready to provide professional help to those who have
 ideas and seek technical expertise, financial resources or marketing service.
 
-	"We are ambitious pioneers of technology, who strive to bring cryptography to the masses! Innovation is our engine; never-ending research and development keeps us at the top. Our aim is to understand and deliver secure yet easy-to-use solutions to real problems. We create and foster our open-source cryptography environment, the “TREZOR ecosystem,” for which we continuously develop flagship applications."
+> "We are ambitious pioneers of technology, who strive to bring cryptography to the masses! Innovation is our engine; never-ending research and development keeps us at the top. Our aim is to understand and deliver secure yet easy-to-use solutions to real problems. We create and foster our open-source cryptography environment, the “TREZOR ecosystem,” for which we continuously develop flagship applications."
 
 https://satoshilabs.com
