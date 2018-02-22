@@ -1,6 +1,8 @@
 SatoshiLabs Press Kit
 =====================
 
-* download everything as one ZIP: https://github.com/satoshilabs/presskit/archive/master.zip
+* For press releases and updates, please visit: https://blog.trezor.io/updates/
 
-* or browse for individual files on Github: https://github.com/satoshilabs/presskit
+* Download everything as one ZIP: https://github.com/satoshilabs/presskit/archive/master.zip
+
+* Or browse for individual files on Github: https://github.com/satoshilabs/presskit
